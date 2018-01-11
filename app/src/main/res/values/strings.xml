@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GroupChat</string>
+    <string name="direct">Not a member?Sign Up</string>
+</resources>
